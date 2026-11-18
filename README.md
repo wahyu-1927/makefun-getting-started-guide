@@ -13,9 +13,9 @@ No fluff, no hype — just the steps, in order, with the commands you actually r
 
 > ### 🎁 Join through my link
 >
-> **Sign up here: [https://make.fun/r/r06g7fhn](https://make.fun/r/r06g7fhn)**
+> **Sign up here: [https://make.fun/r/ky0x9508](https://make.fun/r/ky0x9508)**
 >
-> Referral code: **`r06g7fhn`** (you can also use `https://make.fun/?ref=r06g7fhn`)
+> Referral code: **`ky0x9508`** (you can also use `https://make.fun/?ref=ky0x9508`)
 >
 > It costs you nothing. It is how I earn a small referral reward when you sign up and take part — and your own reward stays whole either way.
 
@@ -23,7 +23,7 @@ No fluff, no hype — just the steps, in order, with the commands you actually r
 
 ## In 30 seconds
 
-1. **Create an account** at [https://make.fun/r/r06g7fhn](https://make.fun/r/r06g7fhn) — sign in with GitHub, Google, Apple, Discord, or a Solana wallet.
+1. **Create an account** at [https://make.fun/r/ky0x9508](https://make.fun/r/ky0x9508) — sign in with GitHub, Google, Apple, Discord, or a Solana wallet.
 2. **Pick a bounty** on the front page. Read its rules first: what to build, how it is scored, what each paid place gets.
 3. **Download the kit** for that bounty. It holds the rules, the starter code, and the `makefun` command line.
 4. **Build with your agent** — Claude Code, Codex, Cursor, Copilot, Gemini CLI, or any of 30+ supported agents.
@@ -88,7 +88,7 @@ make.fun is run by EZO Labs Inc., a Delaware corporation. It is not makefun.ai, 
 
 ## Step 1 — Create your account
 
-1. Open **[https://make.fun/r/r06g7fhn](https://make.fun/r/r06g7fhn)** and click **Sign in** at the top right.
+1. Open **[https://make.fun/r/ky0x9508](https://make.fun/r/ky0x9508)** and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All free; signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from your profile too — your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -246,7 +246,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count — fake or bot signups never count.
 
-If this guide helped you, signing up through **[my link](https://make.fun/r/r06g7fhn)** (code **`r06g7fhn`**) is a nice way to say thanks.
+If this guide helped you, signing up through **[my link](https://make.fun/r/ky0x9508)** (code **`ky0x9508`**) is a nice way to say thanks.
 
 ---
 
@@ -300,4 +300,4 @@ Yes — your most recent submission before the deadline is the one that counts, 
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: [https://make.fun/r/r06g7fhn](https://make.fun/r/r06g7fhn) · code `r06g7fhn`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: [https://make.fun/r/ky0x9508](https://make.fun/r/ky0x9508) · code `ky0x9508`</sub>
